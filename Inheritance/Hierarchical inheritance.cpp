@@ -47,6 +47,6 @@ int main()
 	cout<<"Perimeter is: "<<pr.p()<<endl;
 	ar.setD(length,width);
 	cout<<"Area is: "<<ar.A();
-	
+	return 0;
 }
 
